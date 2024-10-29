@@ -1,0 +1,48 @@
+:root {
+  /* Colors */
+  --Green: hsl(150, 100%, 63%);
+  --Purple-900: hsl(273, 85%, 13%);
+  /* Spacing */
+  --Spacing-1: 296px;
+  --Spacing-2: 168px;
+  --Spacing-3: 144px;
+  --Spacing-4: 128px;
+  --Spacing-5: 112px;
+  --Spacing-6: 88px;
+  --Spacing-7: 80px;
+  --Spacing-8: 64px;
+  --Spacing-9: 56px;
+  --Spacing-10: 44px;
+  --Spacing-11: 40px;
+  --Spacing-12: 32px;
+  --Spacing-13: 28px;
+  --Spacing-14: 20px;
+  --Spacing-15: 16px;
+  --Spacing-16: 12px;
+  --Spacing-17: 8px;
+
+  /* Font-size */
+  --Text-Preset-1: 80px;
+  --Text-Preset-2: 56px;
+  --Text-Preset-3: 32px;
+  --Text-Preset-4: 18px;
+  --Text-Preset-5: 18px;
+  /* Line Height */
+  --Text-Present-1-Line-Height: 1;
+  --Text-Present-2-Line-Height: 1.2;
+  --Text-Present-3-Line-Height: 1.2;
+  --Text-Present-4-Line-Height: 1.8;
+  --Text-Present-5-Line-Height: 1.5;
+  /* Font Weight */
+  --Text-Present-1-Font-Weight: 700;
+  --Text-Present-2-Font-Weight: 700;
+  --Text-Present-3-Font-Weight: 700;
+  --Text-Present-4-Font-Weight: 400;
+  --Text-Present-5-Font-Weight: 800;
+  /* Font Family */
+  --Text-Present-1-Font-Family: 'Fraunces', sans-serif;
+  --Text-Present-2-Font-Family: 'Fraunces', sans-serif;
+  --Text-Present-3-Font-Family: 'Fraunces', sans-serif;
+  --Text-Present-4-Font-Family: 'Manrope', sans-serif;
+  --Text-Present-5-Font-Family: 'Manrope', sans-serif;
+}
