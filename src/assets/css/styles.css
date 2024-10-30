@@ -2,6 +2,9 @@
   /* Colors */
   --Green: hsl(150, 100%, 63%);
   --Purple-900: hsl(273, 85%, 13%);
+  --Purple-500: hsl(271, 12%, 34%);
+  --Purple-100: hsl(276, 100%, 99%);
+  --White: hsl(0, 0%, 100%);
   /* Spacing */
   --Spacing-1: 296px;
   --Spacing-2: 168px;
